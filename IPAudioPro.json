@@ -1,0 +1,166 @@
+{
+    "streams": [
+        {
+
+			"name": "Sportify",
+			"display_name":"Sportify Live1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
+
+        },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
+
+        },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 3",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"  
+   
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 4",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 5",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 6",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 7",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 8",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Live 9",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Italy 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify Italy 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportif SSC 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Sportify EXTRA 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
+
+          },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/index.m3u8"
+
+        },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/index.m3u8"
+
+        },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 3",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/index.m3u8"  
+   
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 4",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/index.m3u8"
+
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 5",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/index.m3u8"
+
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 6",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/index.m3u8"
+
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 7",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/index.m3u8"
+
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 8",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/index.m3u8"
+
+         },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Live 9",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/index.m3u8"
+
+         },{
+
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Italy 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/index.m3u8"
+
+           },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify Italy 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/index.m3u8"
+
+           },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportif SSC 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/index.m3u8"
+
+           },{
+
+			"name": "Sportify 2",
+			"display_name":"Sportify EXTRA 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/index.m3u8"
+
+			}
+    ]
+}
+
+
+
+
