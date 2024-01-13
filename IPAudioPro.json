@@ -137,6 +137,43 @@
 			"name": "Sportify",
 			"display_name":"Italy_2",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
+
+	},{
+	
+			"name": "ANIS",
+			"display_name":"Anis FM",
+			"url":"http://78.129.185.84:36764/stream/1/"
+	
+	},{
+	
+			"name": "ANIS",
+			"display_name":"Anis FM_2",
+			"url":"http://78.129.185.84:36764/stream/3/"
+	
+	},{
+	
+			"name": "ANIS",
+			"display_name":"Anis FM_3", 
+			"url":"http://78.129.185.84:36764/stream/5/"
+	
+	},{
+	
+			"name": "ANIS",
+			"display_name":"Anis FM-low_1", 
+			"url":"http://78.129.185.84:36764/stream/2/"
+	
+	},{
+	
+			"name": "ANIS",
+			"display_name":"Anis FM-low_2", 
+			"url":"http://78.129.185.84:36764/stream/4/"
+	
+	},{
+		
+			"name": "ANIS",
+			"display_name":"Anis FM-low_3", 
+			"url":"http://78.129.185.84:36764/stream/6/"
+		
 	}
     ]
 }
