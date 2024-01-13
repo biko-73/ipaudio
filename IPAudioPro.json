@@ -3,139 +3,139 @@
         {
 
 			"name": "Sportify",
-			"display_name":"AFCON 1",
+			"display_name":"AFCON_1",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon1/mpegts"
 
         },{
 
 			"name": "Sportify",
-			"display_name":"AFCON 2",
+			"display_name":"AFCON_2",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon2/mpegts"
 
         },{
 
 			"name": "Sportify",
-			"display_name":"ASIAN CUP 1",
+			"display_name":"ASIAN CUP_1",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/mpegts"  
    
          },{
 
 			"name": "Sportify",
-			"display_name":"ASIAN CUP 2",
+			"display_name":"ASIAN CUP_2",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Alkass Extra One live",
+			"display_name":"Alkass Extra One-live",
 			"url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"AFCON 1 Delayed",
+			"display_name":"AFCON_1-Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon1/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"AFCON 2 Delayed",
+			"display_name":"AFCON_2-Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon2/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"ASIAN CUP 1 Delayed",
+			"display_name":"ASIAN CUP_1-Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"ASIAN CUP 2 Delayed",
+			"display_name":"ASIAN CUP_2-Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Alkass Extra One live",
+			"display_name":"Alkass Extra One-live",
 			"url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 1",
+			"display_name":"Live_1",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 2",
+			"display_name":"Live_2",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 3",
+			"display_name":"Live_3",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 4",
+			"display_name":"Live_4",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 5",
+			"display_name":"Live_5",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 6",
+			"display_name":"Live_6",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 7",
+			"display_name":"Live_7",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 8",
+			"display_name":"Live_8",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Live 9",
+			"display_name":"Live_9",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"SSC 1",
+			"display_name":"SSC_1",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"SSC EXTRA 1",
+			"display_name":"SSC EXTRA_1",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Italy 1",
+			"display_name":"Italy_1",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Italy 2",
+			"display_name":"Italy_2",
 			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
 	}
     ]
