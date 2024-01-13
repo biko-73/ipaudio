@@ -3,25 +3,25 @@
         {
 
 			"name": "Sportify",
-			"display_name":"Sportify AFCON 1",
+			"display_name":"AFCON 1",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon1/mpegts"
 
         },{
 
 			"name": "Sportify",
-			"display_name":"Sportify AFCON 2",
+			"display_name":"AFCON 2",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon2/mpegts"
 
         },{
 
 			"name": "Sportify",
-			"display_name":"Sportify ASIAN CUP 1",
+			"display_name":"ASIAN CUP 1",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/mpegts"  
    
          },{
 
 			"name": "Sportify",
-			"display_name":"Sportify ASIAN CUP 2",
+			"display_name":"ASIAN CUP 2",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/mpegts"
 
          },{
@@ -33,25 +33,25 @@
          },{
 
 			"name": "Sportify",
-			"display_name":"Sportify AFCON 1 Delayed",
+			"display_name":"AFCON 1 Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon1/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Sportify AFCON 2 Delayed",
+			"display_name":"AFCON 2 Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Afcon2/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Sportify ASIAN CUP 1 Delayed",
+			"display_name":"ASIAN CUP 1 Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/index.m3u8"
 
          },{
 
 			"name": "Sportify",
-			"display_name":"Sportify ASIAN CUP 2 Delayed",
+			"display_name":"ASIAN CUP 2 Delayed",
 			"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/index.m3u8"
 
          },{
@@ -60,7 +60,83 @@
 			"display_name":"Alkass Extra One live",
 			"url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/index.m3u8"
 
+         },{
 
+			"name": "Sportify",
+			"display_name":"Live 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 3",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 4",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 5",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 6",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 7",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 8",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Live 9",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"SSC 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"SSC EXTRA 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Italy 1",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
+
+         },{
+
+			"name": "Sportify",
+			"display_name":"Italy 2",
+			"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
 	}
     ]
 }
