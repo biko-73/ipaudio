@@ -1,29 +1,53 @@
 {
 "playlist":[{
             
-"channel":"BEIN MAX1",
-"url":"http://108.61.34.50:7057/live"
+"channel":"Sportify AFCON 1",
+"url":"https://audio.sportify-fm.live/Sportify-Afcon1/mpegts"
 
 },{
 	
-"channel":"Radio anis",
-"url":"http://78.129.185.81:28026/stream/1/"
+"channel":"Sportify AFCON 2",
+"url":"https://audio.sportify-fm.live/Sportify-Afcon2/mpegts"
 
 },{
 	
-"channel":"Radio anis2",
-"url":"http://78.129.185.84:26831/stream/2/"
+"channel":"Sportify ASIAN CUP 1",
+"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/mpegts"
 
 },{
 	
-"channel":"Radio hadara",
-"url":"http://rs.hadara.ps:8000/;stream.mp3?play3"
+"channel":"Sportify ASIAN CUP 2",
+"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/mpegts"
 
 },{	
 
-"channel":"Radio Delta",
-"url":"http://cp12.serverse.com:7057/live"	
+"channel":"Alkass Extra One live",
+"url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/mpegts"	
 
+},{	
+
+"channel":"Sportify AFCON 1 Delayed",
+"url":"https://audio.sportify-fm.live/Sportify-Afcon1/index.m3u8"
+
+},{	
+
+"channel":"Sportify AFCON 2 Delayed",
+"url":"https://audio.sportify-fm.live/Sportify-Afcon2/index.m3u8"
+
+},{	
+
+"channel":"Sportify ASIAN CUP 1 Delayed",
+"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/index.m3u8"
+
+},{	
+
+"channel":"Sportify ASIAN CUP 2 Delayed",
+"url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/index.m3u8"
+
+},{	
+
+"channel":"Alkass Extra One live",
+"url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/index.m3u8"
 
 }]
 }
