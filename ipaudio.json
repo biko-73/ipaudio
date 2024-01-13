@@ -115,5 +115,37 @@
 "channel":"Sportify italy_2",
 "url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
 
-}]
+},{
+	
+"channel":"Anis FM", 
+"url":"http://78.129.185.84:36764/stream/1/"
+	
+},{
+	
+"channel":"Anis FM 2", 
+"url":"http://78.129.185.84:36764/stream/3/"
+	
+},{
+	
+"channel":"Anis FM 3", 
+"url":"http://78.129.185.84:36764/stream/5/"
+	
+},{
+	
+"channel":"Anis FM low 1", 
+"url":"http://78.129.185.84:36764/stream/2/"
+	
+},{
+	
+"channel":"Anis FM low 2", 
+"url":"http://78.129.185.84:36764/stream/4/"
+	
+},{
+
+
+"channel":"Anis FM low 3", 
+"url":"http://78.129.185.84:36764/stream/6/"
+	
+}
+]
 }
