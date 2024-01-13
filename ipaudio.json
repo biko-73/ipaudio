@@ -1,53 +1,119 @@
 {
 "playlist":[{
             
-"channel":"Sportify AFCON 1",
+"channel":"Sportify AFCON_1",
 "url":"https://audio.sportify-fm.live/Sportify-Afcon1/mpegts"
 
 },{
 	
-"channel":"Sportify AFCON 2",
+"channel":"Sportify AFCON_2",
 "url":"https://audio.sportify-fm.live/Sportify-Afcon2/mpegts"
 
 },{
 	
-"channel":"Sportify ASIAN CUP 1",
+"channel":"Sportify ASIAN CUP_1",
 "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/mpegts"
 
 },{
 	
-"channel":"Sportify ASIAN CUP 2",
+"channel":"Sportify ASIAN CUP_2",
 "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/mpegts"
 
 },{	
 
-"channel":"Alkass Extra One live",
+"channel":"Sportify Alkass Extra One-live",
 "url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/mpegts"	
 
 },{	
 
-"channel":"Sportify AFCON 1 Delayed",
+"channel":"Sportify AFCON 1-Delayed",
 "url":"https://audio.sportify-fm.live/Sportify-Afcon1/index.m3u8"
 
 },{	
 
-"channel":"Sportify AFCON 2 Delayed",
+"channel":"Sportify AFCON 2-Delayed",
 "url":"https://audio.sportify-fm.live/Sportify-Afcon2/index.m3u8"
 
 },{	
 
-"channel":"Sportify ASIAN CUP 1 Delayed",
+"channel":"Sportify ASIAN CUP 1-Delayed",
 "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/index.m3u8"
 
 },{	
 
-"channel":"Sportify ASIAN CUP 2 Delayed",
+"channel":"Sportify ASIAN CUP 2-Delayed",
 "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/index.m3u8"
 
 },{	
 
-"channel":"Alkass Extra One live",
+"channel":"Sportify Alkass Extra One-live",
 "url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/index.m3u8"
+
+
+},{	
+
+"channel":"Sportify Live 1",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
+
+},{	
+
+"channel":"Sportify Live 2",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
+
+},{	
+
+"channel":"Sportify Live 3",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"
+
+},{	
+
+"channel":"Sportify Live 4",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/mpegts"
+
+},{	
+
+"channel":"Sportify Live 5",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/mpegts"
+
+},{	
+
+"channel":"Sportify Live 6",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
+
+},{	
+
+"channel":"Sportify Live 7",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
+
+},{	
+
+"channel":"Sportify Live 8",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
+
+},{	
+
+"channel":"Sportify Live 9",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
+
+},{	
+
+"channel":"Sportify SSC 1",
+"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
+
+},{	
+
+"channel":"Sportify SSC EXTRA 1",
+"url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
+
+},{	
+
+"channel":"Sportify italy 1",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
+
+},{	
+
+"channel":"Sportify italy 2",
+"url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
 
 }]
 }
