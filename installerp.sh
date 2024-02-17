@@ -2,12 +2,11 @@
 # ==================================================================================================
 # Command: wget https://raw.githubusercontent.com/biko-73/ipaudio/main/installerp.sh -O - | /bin/sh #
 # ================================================================================================== 
-#config
 file=ipaudiopro+
 url=https://github.com/biko-73/ipaudio/raw/main/ipaudiopro+.tar.gz
 package=/var/volatile/tmp/$file.tar.gz
 
-#download & install
+#download & extract
 echo "> Downloading $file please wait ..."
 sleep 3s
 
