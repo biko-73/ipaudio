@@ -39,7 +39,8 @@ if [ -f $MY_TMP_FILE ]; then
 		fi
 	else
 		echo "   >>>>   INSTALLATION FAILED !   <<<<"
-  		fi;
+  		fi
+    	else
 	echo ''
 	echo '**************************************************'
 	echo '**                   FINISHED                   **'
