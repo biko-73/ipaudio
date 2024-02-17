@@ -1,30 +1,22 @@
 #!/bin/sh
-
 # ==================================================================================================
 # Command: wget https://raw.githubusercontent.com/biko-73/ipaudio/main/installerp.sh -O - | /bin/sh #
 # ================================================================================================== 
-
 #########################################################
 PACKAGE_DIR='ipaudio/main'
-
 MY_FILE="ipaudiopro+.tar.gz"
 #########################################################
-
 MY_MAIN_URL="https://github.com/biko-73/ipaudio/raw/main/ipaudiopro+.tar.gz"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
-
 rm -f $MY_TMP_FILE > /dev/null 2>&1
-
 MY_SEP='============================================================='
 echo $MY_SEP
 echo 'Downloading '$MY_FILE' ...'
 echo $MY_SEP
 echo ''
 wget -T 2 $MY_URL -P "/tmp/"
-
 if [ -f $MY_TMP_FILE ]; then
-
 	echo ''
 	echo $MY_SEP
 	echo 'Extracting ...'
@@ -32,9 +24,7 @@ if [ -f $MY_TMP_FILE ]; then
 	echo ''
 	tar -xf $MY_TMP_FILE -C /
 	MY_RESULT=$?
-
 	rm -f $MY_TMP_FILE > /dev/null 2>&1
-
 	echo ''
 	echo ''
 	if [ $MY_RESULT -eq 0 ]; then
