@@ -6,7 +6,7 @@
 PACKAGE_DIR='ipaudio/main'
 MY_FILE="ipaudiopro+.tar.gz"
 #########################################################
-MY_MAIN_URL="https://github.com/biko-73/ipaudio/raw/main/ipaudiopro+.tar.gz"
+MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/ipaudio/main/"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
 rm -f $MY_TMP_FILE > /dev/null 2>&1
