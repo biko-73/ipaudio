@@ -49,4 +49,3 @@ else
 	echo ''
 	echo "Download failed !"
 	exit 1
-fi
