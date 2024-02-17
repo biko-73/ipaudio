@@ -26,5 +26,4 @@ echo "> $file installation failed"
 sleep 3s
 fi
 
-fi
 exit 0
